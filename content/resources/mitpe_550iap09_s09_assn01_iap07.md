@@ -4,7 +4,12 @@ description: Assignment to address and rate a variety of areas of your life. Thi
   is a mandatory assignment, and a condition for entry into the course.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/pe-550-designing-your-life-spring-2009/55a7b33dda5f568a9518a91bbfb9dbb0_MITPE_550iap09_s09_assn01_iap07.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Assignment 1
+type: OCWFile
 uid: 55a7b33d-da5f-568a-9518-a91bbfb9dbb0
 ---

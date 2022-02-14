@@ -7,7 +7,9 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
 resourcetype: Image
 title: Designing Your Life
+type: OCWImage
 uid: 86548828-1786-a434-40b9-2668e40382b7
 ---
