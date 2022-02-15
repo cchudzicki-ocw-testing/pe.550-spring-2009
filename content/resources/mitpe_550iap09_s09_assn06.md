@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 'Homework 6: Haunting Incidents'
-type: OCWFile
 uid: 6abb0753-e690-0409-aa48-0895f553a452
 ---

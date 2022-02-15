@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture/Discussion 1: Promises and Consequences, Areas of Life'
-type: OCWFile
 uid: 447cbde7-199f-4565-6b22-fea1833532c0
 ---

@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture/Discussion 3: Acting on Your Plan and What''s Next'
-type: OCWFile
 uid: 03fb79c1-fd0f-73d6-fc7e-3f08188a57a0
 ---

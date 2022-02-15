@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 'Homework 5: Parent Traits'
-type: OCWFile
 uid: 6a0d6778-0477-a994-51fe-da0a08cab7ff
 ---

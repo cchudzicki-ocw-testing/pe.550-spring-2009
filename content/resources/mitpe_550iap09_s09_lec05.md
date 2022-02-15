@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture/Discussion 5: Parent Traits'
-type: OCWFile
 uid: abfd2126-7e8b-828d-d579-da03534f43f9
 ---

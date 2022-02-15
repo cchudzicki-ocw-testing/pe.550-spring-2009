@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Assignment 3
-type: OCWFile
 uid: 4339470f-d42e-1e0b-f6e6-c6cb31058bd4
 ---

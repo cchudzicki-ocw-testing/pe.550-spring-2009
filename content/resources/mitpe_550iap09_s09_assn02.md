@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 'Homework 2: Theories'
-type: OCWFile
 uid: af41de45-dfab-f8d6-62d3-114bebc2cf7c
 ---

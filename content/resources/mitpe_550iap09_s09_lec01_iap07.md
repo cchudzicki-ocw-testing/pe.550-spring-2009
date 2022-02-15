@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture/Discussion 1: Elements of Living an Extraordinary Life'
-type: OCWFile
 uid: 7832074e-fe96-2914-1f9c-fe92a17f7dfb
 ---

@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture/Discussion 3: Theories, Purges, and Thought Logs '
-type: OCWFile
 uid: 49874f6e-c01d-7459-5739-b61792e9a674
 ---

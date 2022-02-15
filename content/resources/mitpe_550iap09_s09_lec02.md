@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture/Discussion 2: Theories'
-type: OCWFile
 uid: edba3fa1-4560-c881-9d2e-9ec4fd3c5878
 ---

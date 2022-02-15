@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture/Discussion 8: Connecting Hauntings, Traits, and Theories'
-type: OCWFile
 uid: ca026e56-f2a2-1ff5-6c7a-4ec8e51a2cb9
 ---
