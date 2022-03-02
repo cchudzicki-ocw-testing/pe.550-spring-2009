@@ -39,7 +39,7 @@ We learn how to develop your personal integrity by making and keeping weekly pro
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 447cbde7-199f-4565-6b22-fea1833532c0 "PDF" >}})
+({{% resource_link 447cbde7-199f-4565-6b22-fea1833532c0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +57,7 @@ We identify theories you have about the way the world works, and discuss how the
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link edba3fa1-4560-c881-9d2e-9ec4fd3c5878 "PDF" >}})
+({{% resource_link edba3fa1-4560-c881-9d2e-9ec4fd3c5878 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -75,7 +75,7 @@ We hunt for theories by recording our thoughts throughout the day. We also learn
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 49874f6e-c01d-7459-5739-b61792e9a674 "PDF" >}})
+({{% resource_link 49874f6e-c01d-7459-5739-b61792e9a674 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +93,7 @@ Every time your life does not resemble your dream life, there is likely an excus
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link ab59df6f-427f-24c7-77f2-3766935dc667 "PDF" >}})
+({{% resource_link ab59df6f-427f-24c7-77f2-3766935dc667 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -111,7 +111,7 @@ Many of our personal traits are formed in reaction to our parents. In this lectu
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link abfd2126-7e8b-828d-d579-da03534f43f9 "PDF" >}})
+({{% resource_link abfd2126-7e8b-828d-d579-da03534f43f9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -129,7 +129,7 @@ Incidents from our past that haunt us contain valuable clues to lessons we need 
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link a9129e76-4080-5f0b-ec2d-03b17bd12498 "PDF" >}})
+({{% resource_link a9129e76-4080-5f0b-ec2d-03b17bd12498 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -147,7 +147,7 @@ We learn how to clean up and resolve hauntings so they do not haunt us anymore, 
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 1982279d-c0ee-36a0-5258-70d92eeeacef "PDF" >}})
+({{% resource_link 1982279d-c0ee-36a0-5258-70d92eeeacef "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -165,7 +165,7 @@ We explain how hauntings arise from our traits and theories, and as such can pro
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link ca026e56-f2a2-1ff5-6c7a-4ec8e51a2cb9 "PDF" >}})
+({{% resource_link ca026e56-f2a2-1ff5-6c7a-4ec8e51a2cb9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
