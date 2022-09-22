@@ -6,6 +6,7 @@ file: /courses/pe-550-designing-your-life-spring-2009/b22b0550745d4f7ea0c1fe1510
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

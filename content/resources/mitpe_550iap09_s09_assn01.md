@@ -6,6 +6,7 @@ file: /courses/pe-550-designing-your-life-spring-2009/8bc2e5458f8610e0023fe1a0c1
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
